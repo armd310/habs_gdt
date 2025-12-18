@@ -48,7 +48,7 @@ def main():
     trainer = Trainer(
         model=model,
         args=args,
-        train_data=tokenized["train"],
+        train_dataset=tokenized["train"],
         data_collator=data_collator,
     )
 
