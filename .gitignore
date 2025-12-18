@@ -1,4 +1,2 @@
-habs_game_threads.jsonl
-habs_clean_comments.jsonl
-habs_game_thread_comments.jsonl
+*.jsonl
 .venv
